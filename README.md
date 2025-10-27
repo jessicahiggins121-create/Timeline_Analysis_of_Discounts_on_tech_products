@@ -4,6 +4,8 @@ Business Analysis using data cleaning and quality methodology to condunct analys
 Goal: to understand whether or not it’s beneficial to discount products.
 Insights were: the max beneficial discount was around 30% off products all other discount higher than that did not increase the sales of tech products as much. 
 
+
+#### Collaborators: Analysis was done with: `<Tanish>`: & `<Irine>`:
 ## Source: ENIAC Sales Datasets 
 Data - provided by WBS Coding School 
 - Note orders, orderlines, and products have corrupted values in price columns, and are missing over values such as description.
@@ -83,10 +85,10 @@ How to reproduce your results
 What files to look at first
 
 Template:
-1. Main Analysis: View the complete analysis in [analysis.ipynb](link-to-notebook)
-2. Data: Download dataset from or use the file in `/data` folder
-3. Run the Code: Open notebook in Google Colab or Jupyter and run all cells
-4. Dependencies: No special setup required – uses standard data science libraries
+1. Main Analysis: View the complete analysis uploaded in files
+2. Data: Download dataset from or use the file in the data linked above
+3. Run the Code: Open notebook in Google Colab run all cells once you have uploaded the data to where you are working from
+4. Dependencies: import Pandas and Seaborn
 
 🚀 Future Work
 I would like to see if we could get customer orders and see if we had onetime 
@@ -102,6 +104,4 @@ Additional questions you would explore
 
  ## Contact
 
-LinkedIn: [Your LinkedIn Profile](link)
-
-Analysis was done with: 
+LinkedIn: [Jessica Higgins](https://www.linkedin.com/in/jessicahiggins-rde/)
