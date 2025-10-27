@@ -5,7 +5,7 @@ Goal: to understand whether or not it’s beneficial to discount products.
 Insights were: the max beneficial discount was around 30% off products all other discount higher than that did not increase the sales of tech products as much. 
 
 
-#### Collaborators: Analysis was done with: `<tanishtara>`:https://github.com/tanishtara & `<Irine>`:
+#### Collaborators: Analysis was done with: `<tanishtara>`:<https://github.com/tanishtara> & `<Irine>`:https://github.com/irinedivya<https://github.com/irinedivya>
 ## Source: ENIAC Sales Datasets 
 Data - provided by WBS Coding School 
 - Note orders, orderlines, and products have corrupted values in price columns, and are missing over values such as description.
@@ -66,8 +66,8 @@ Key libraries and frameworks
 - Google Colab 
 ## Project Structure
 #### Data files: 
-- `<cleaned and quality>` :<https://drive.google.com/drive/folders/17eSb1EA2aW0fK5pHEEhAnzdH8EeRqik_?usp=drive_link>
-- `<original>` :<https://drive.google.com/drive/folders/13OGwxS4tp-HjQRhCtpPfhJDnipnb90dm?usp=sharing>
+- `<cleaned and quality>`:<https://drive.google.com/drive/folders/17eSb1EA2aW0fK5pHEEhAnzdH8EeRqik_?usp=drive_link>
+- `<original>`:<https://drive.google.com/drive/folders/13OGwxS4tp-HjQRhCtpPfhJDnipnb90dm?usp=sharing>
   
 #### Project files: 
 - Data exploration
