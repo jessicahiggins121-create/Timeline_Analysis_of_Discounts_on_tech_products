@@ -5,7 +5,7 @@ Goal: to understand whether or not it’s beneficial to discount products.
 Insights were: the max beneficial discount was around 30% off products all other discount higher than that did not increase the sales of tech products as much. 
 
 
-#### Collaborators: Analysis was done with: `<Tanish>`: & `<Irine>`:
+#### Collaborators: Analysis was done with: `<tanishtara>`:https://github.com/tanishtara & `<Irine>`:
 ## Source: ENIAC Sales Datasets 
 Data - provided by WBS Coding School 
 - Note orders, orderlines, and products have corrupted values in price columns, and are missing over values such as description.
